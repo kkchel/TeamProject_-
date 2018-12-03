@@ -1,0 +1,31 @@
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.Client.resources
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.Form1.resources
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.Properties.Resources.resources
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.Server.resources
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.csproj.GenerateResource.Cache
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.exe
+c:\users\kichel\documents\visual studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.pdb
+C:\Users\kichel\Documents\Visual Studio 2010\Projects\TeamProject\TeamProject\obj\x86\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.exe
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.pdb
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Client.resources
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Form1.resources
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Properties.Resources.resources
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Server.resources
+C:\Users\kichel\Downloads\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.csproj.GenerateResource.Cache
+D:\잡다한거\TeamProject_김기철\TeamProject\bin\Debug\TeamProject.exe
+D:\잡다한거\TeamProject_김기철\TeamProject\bin\Debug\TeamProject.pdb
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.csprojAssemblyReference.cache
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Client.resources
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Form1.resources
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Properties.Resources.resources
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.Server.resources
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.csproj.GenerateResource.cache
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.csproj.CoreCompileInputs.cache
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.exe
+D:\잡다한거\TeamProject_김기철\TeamProject\obj\x86\Debug\TeamProject.pdb
